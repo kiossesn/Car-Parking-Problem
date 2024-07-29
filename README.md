@@ -1,7 +1,9 @@
 # Car-Parking-Problem
 This is a car parking problem in a grid. The goal is to take all the cars out of the grid using the Breadth First Search algorithm.
 
-[Εργασία1.docx](https://github.com/user-attachments/files/16419387/1.docx)
+[Εκφώνηση.pdf](https://github.com/user-attachments/files/16419451/default.pdf)
+
+[documentation.docx](https://github.com/user-attachments/files/16419387/1.docx)
 
 The grid is 3 by 4.
 - | : vertical oriented car
