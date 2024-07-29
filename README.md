@@ -3,7 +3,6 @@ This is a car parking problem in a grid. The goal is to take all the cars out of
 
 [Εργασία1.docx](https://github.com/user-attachments/files/16419387/1.docx)
 
-**Modeling**\
 The grid is 3 by 4.
 - | : vertical oriented car
 - \- : horizontal oriented car
